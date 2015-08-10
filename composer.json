@@ -1,5 +1,5 @@
 {
-    "name": "hoavq/laravel-gridview",
+    "name": "hoavq/gridview",
     "description": "Laravel 5 gridview data",
     "authors": [
         {
@@ -8,8 +8,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-		"intervention/image": "~2.2"
+        "php": ">=5.4.0"
 	},
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
