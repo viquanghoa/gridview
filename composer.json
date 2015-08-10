@@ -1,0 +1,14 @@
+{
+    "name": "hoavq/gridview",
+    "description": "Laravel 5 gridview data",
+    "authors": [
+        {
+            "name": "Vi Quang Hoa",
+            "email": "vyquanghoa@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+	},
+    "minimum-stability": "dev"
+}
