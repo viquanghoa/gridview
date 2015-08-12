@@ -1,14 +1,22 @@
 {
-    "name": "hoavq/gridview",
-    "description": "Laravel 5 gridview data",
-    "authors": [
-        {
-            "name": "Vi Quang Hoa",
-            "email": "vyquanghoa@gmail.com"
-        }
-    ],
-    "require": {
-        "php": ">=5.4.0"
+	"name": "hoavq/gridview",
+	"description": "Laravel 5 gridview data",
+	"keywords": ["laravel", "gridview", "data"],
+	"authors": [
+		{
+			"name": "Vi Quang Hoa",
+			"email": "vyquanghoa@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0"
 	},
-    "minimum-stability": "dev"
+	"autoload": {
+		"psr-4": {
+			"Hoavq\\Gridview\\": "src/"
+		},
+		"files": [
+		]
+	},
+	"minimum-stability": "dev"
 }
